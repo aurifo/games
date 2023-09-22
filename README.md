@@ -1,2 +1,2 @@
 # games
-https://dolphinsmoney.github.io
+https://dolphinsmoney.github.io/games
